@@ -8,9 +8,9 @@ metadata:
   annotations:
     github.com/project-slug: wistia/testcafe-reporter-xunit-wistia
     backstage.io/techdocs-ref: dir:.
-  spec:
-    type: library
-    owner: quality-engineering
-    lifecycle: production
   tags:
     - lang#javascript
+spec:
+  type: library
+  owner: quality-engineering
+  lifecycle: production
